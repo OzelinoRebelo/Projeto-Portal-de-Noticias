@@ -14,3 +14,14 @@ O objetivo foi praticar a construção de um layout completo e responsivo, com f
 
 - HTML5
 - CSS3
+
+## 🙌 Créditos
+
+Projeto desenvolvido durante o curso da [Rocketseat](https://www.rocketseat.com.br/).
+
+## 👤 Autor
+
+**Ozelino Rebelo**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ozelinorebelo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OzelinoRebelo)
